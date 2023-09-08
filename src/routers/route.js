@@ -24,6 +24,7 @@ router.post('/bfhl', async (req, res) => {
         const result = {
             is_success: true,
             user_id: "yash_gangwar_14052001",
+            mail_id: "yg8897@srmist.edu.in",
             roll_number: "RA2011003030083",
             numbers: numbers,
             alphabets: alphabets,
